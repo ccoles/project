@@ -1,0 +1,4 @@
+This is a simple shell tool, just drop it in a folder and type ./project.sh from the command line,
+the tool will create all required files and folders for your project. It is heavily based on the wonderful
+HTML5 Boiler Plate project with a few modifications (sorry I removed normalize.css and replace it with reset.css) I also
+add in media query style sheets for mobile, table portrait, table landscape and desktop.
